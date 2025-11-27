@@ -1,5 +1,5 @@
 
-## 🚀  Jose Jaime Matsimbe | Fullstack Wizard 
+## 🚀  Jose Jaime Matsimbe | Fullstack 
 
 <div align="center">
 <table>
@@ -13,7 +13,7 @@ const jose = {
   passions: ["Clean code", "Automation", "Jesus"],
   motto: "Code it with purpose, build it with excellence",
   currentFocus: "Building WorkLedger & learning Automation",
-  stack: ["Laravel", "Vue", "React", "Python", "C#", "Power BI", Linux],
+  stack: ["Laravel", "Vue", "React", "Python", "C#", "Power BI", "Linux"],
 };
 ```
 </td>
