@@ -1,5 +1,5 @@
 
-## 🚀  Jose Jaime Matsimbe | Backend folk 
+## 🚀  Jose Jaime Matsimbe | FullStack folk 
 
 <div align="center">
 <table>
