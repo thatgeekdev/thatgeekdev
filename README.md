@@ -27,15 +27,3 @@ const jose = {
 </tr>
 </table>
 </div>
-
----
-
-<div align="center">
-  <i>"Se não houver frutos, valeu a beleza das flores; </i>
-  <br>
-  <i>Se não houver flores, valeu a sombra das folhas;</i>
-  <br> 
-  <i>Se não houver folhas, valeu a intenção da semente."</i>
-  <br>
-  <i>Henfil</i>
-</div>
